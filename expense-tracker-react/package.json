@@ -1,8 +1,0 @@
-{
-  "name": "expense-tracker",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "react": "^18.0.0"
-  }
-}
